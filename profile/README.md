@@ -51,10 +51,10 @@ interactive stories, a collection of featured cords, and a glossary.
 
 ## Get involved
 
-We're a collaborative space for UCSB faculty and students, offering imaging and
+We're a collaborative space for UCSB faculty, researchers, and students, offering imaging and
 digitization support for both 2D and 3D objects.
 
 - Arts Building, Room 1245 · Mon–Thu, 8am–4pm
+- Internships: Dr Jeff O'Brien ([jeffobrien@ucsb.edu](mailto:jeffobrien@ucsb.edu))
 - Room & equipment booking: Christine Fritsch ([cfritsch@ucsb.edu](mailto:cfritsch@ucsb.edu))
-- Internships: Jeff O'Brien ([jeffobrien@ucsb.edu](mailto:jeffobrien@ucsb.edu))
 - General: [mirl@arthistory.ucsb.edu](mailto:mirl@arthistory.ucsb.edu)
