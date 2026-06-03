@@ -146,7 +146,6 @@ d.text((LX, 232 * S), spaced("DIGITAL IMAGING", 1) + "   ·   " +
 # tiny specimen-style coordinate marks (corners)
 tick = F("IBMPlexMono-Regular.ttf", 10)
 d.text((LX, H - 46 * S), "MIRL · UC SANTA BARBARA", font=tick, fill=(43, 39, 36, 130))
-d.text((vis_x1 - 70 * S, H - 46 * S), "FIG. 01", font=tick, fill=(43, 39, 36, 130))
 
 # --- downscale for crisp anti-aliasing ---
 img = img.resize((1280, 320), Image.LANCZOS)
