@@ -5,7 +5,7 @@
 **The primary campus resource for image research and use at UC Santa Barbara.**
 
 Exploring the dynamic interplay between digital images, emergent digital
-technologies, and analogue art objects.
+technologies, and art objects.
 
 [Lab Website](https://mirl.arthistory.ucsb.edu) ·
 [Projects](https://mirl.arthistory.ucsb.edu/projects/) ·
