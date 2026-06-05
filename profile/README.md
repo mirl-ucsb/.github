@@ -42,7 +42,7 @@ makes tamper-evident copies, secures independent dated backups, records a full
 chain of custody, and is built to protect the people who provide material.
 
 ### [mirl-map](https://github.com/mirl-ucsb/mirl-map)
-A no-build documentary photo-map pairing geolocated photographs with per-photo narratives, shown as an interactive Leaflet map and a sequential photo essay. Generalised from MIRL's Lifta project; fork it per project. Plain HTML, CSS, and vanilla JS, deploys free on GitHub Pages.
+A no-build documentary photo-map pairing geolocated photographs with per-photo narratives, shown as an interactive Leaflet map and a sequential photo essay. Generalised from MIRL's Lifta project; fork it per project. Plain HTML, CSS, and vanilla JS, deploys free on GitHub Pages. In development.
 
 ### [Haptic Khipu Project](https://khipu.mirl.arthistory.ucsb.edu)
 A digital exploration of Andean recordkeeping systems. We investigate a
