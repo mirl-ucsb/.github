@@ -19,7 +19,7 @@ communities, and partner institutions.
 
 ## MIRL Tools
 
-Free, open instruments for studying, documenting, and defending cultural heritage, made
+Free, open instruments for finding, documenting, and defending cultural heritage, made
 for the people who do this work one scholar, one community, or one collection at a time.
 Each runs in the browser or on a laptop, installs nothing, and keeps data local, so that
 control over the material, and protection of the people in the record, stays with them.
@@ -29,6 +29,7 @@ non-coders. Each does one job on its own, and together they follow the arc of th
 
 | | Tool | What it does | |
 |---|------|--------------|---|
+| **Find** | **MIRL Glean** | Searches twenty-two open museum, library, and archive collections at once, with every licence shown, Chicago citations, and downloads that record where each file came from. | [Open](https://mirl-ucsb.github.io/mirl-glean/) · [Repo](https://github.com/mirl-ucsb/mirl-glean) |
 | **Secure** | **rescue-archiving** | Makes a verifiable, tamper-evident copy of at-risk online media, with a full chain of custody. | [Repo](https://github.com/mirl-ucsb/rescue-archiving) |
 | **Catalogue what is gone** | **MIRL Lacuna** | A catalogue for archives that no longer exist: registers of destroyed, looted, and dispersed works, with consent-aware evidence and surviving copies in IIIF. | [Open](https://mirl-ucsb.github.io/mirl-lacuna/) · [Repo](https://github.com/mirl-ucsb/mirl-lacuna) |
 | **Assess what stands** | **MIRL Aftermath** | Turns before-and-after photographs into a standardized condition dossier for damaged heritage. | [Open](https://mirl-ucsb.github.io/mirl-aftermath/) · [Repo](https://github.com/mirl-ucsb/mirl-aftermath) |
