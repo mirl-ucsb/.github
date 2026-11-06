@@ -1,63 +1,95 @@
 <div align="center">
 
-<img src="assets/mirl-banner.png" alt="MIRL — Material / Image Research Lab" width="100%">
+<img src="assets/mirl-banner.png" alt="MIRL, Material / Image Research Lab, History of Art & Architecture, UC Santa Barbara" width="100%">
 
-**The primary campus resource for image research and use at UC Santa Barbara.**
-
-Exploring the dynamic interplay between digital images, emergent digital
-technologies, and art objects.
-
-[Lab Website](https://mirl.arthistory.ucsb.edu) ·
+[Website](https://mirl.arthistory.ucsb.edu) ·
 [Projects](https://mirl.arthistory.ucsb.edu/projects/) ·
+[MIRL Tools](https://mirl.arthistory.ucsb.edu/mirl-tools/) ·
 [Contact](mailto:mirl@arthistory.ucsb.edu)
 
 </div>
 
----
+MIRL, the Material / Image Research Lab, is the research and teaching lab of the
+Department of History of Art & Architecture at UC Santa Barbara. We study the
+relationship between art objects and their images: how objects are photographed,
+scanned, digitized, and shared, and what is gained and lost when the material becomes
+digital. Faculty bring their classes to the lab to work with objects up close, and we
+build open tools for archives and cultural heritage, with students, artists,
+communities, and partner institutions.
 
-MIRL is a research lab in the **Department of the History of Art & Architecture**
-at UC Santa Barbara. We study how analogue art objects and the built environment
-can be imaged, preserved, and re-understood through emerging digital methods —
-building open tools and treating images themselves as instruments of scholarship.
+## MIRL Tools
 
-## Featured projects
+Free, open instruments for studying, documenting, and defending cultural heritage, made
+for the people who do this work one scholar, one community, or one collection at a time.
+Each runs in the browser or on a laptop, installs nothing, and keeps data local, so that
+control over the material, and protection of the people in the record, stays with them.
+The tools share the same commitments: local-first and private, evidentiary discipline
+with sha-256 fingerprints and provenance, open licensing, and documentation written for
+non-coders. Each does one job on its own, and together they follow the arc of the work.
 
-### [California Native American Modern Art Archive](https://mirl.arthistory.ucsb.edu/cnamaa/)
-A digital repository dedicated to documenting, preserving, and amplifying the
-work of modern and contemporary Native American artists from California — long
-underrepresented in major art-historical platforms. Built on a post-custodial,
-consent-driven model where artists retain control over how their work is
-represented, following Indigenous Data Sovereignty principles. Both a repository
-and a pedagogical initiative training students in ethical archival methods.
+| | Tool | What it does | |
+|---|------|--------------|---|
+| **Secure** | **rescue-archiving** | Makes a verifiable, tamper-evident copy of at-risk online media, with a full chain of custody. | [Repo](https://github.com/mirl-ucsb/rescue-archiving) |
+| **Catalogue what is gone** | **MIRL Lacuna** | A catalogue for archives that no longer exist: registers of destroyed, looted, and dispersed works, with consent-aware evidence and surviving copies in IIIF. | [Open](https://mirl-ucsb.github.io/mirl-lacuna/) · [Repo](https://github.com/mirl-ucsb/mirl-lacuna) |
+| **Assess what stands** | **MIRL Aftermath** | Turns before-and-after photographs into a standardized condition dossier for damaged heritage. | [Open](https://mirl-ucsb.github.io/mirl-aftermath/) · [Repo](https://github.com/mirl-ucsb/mirl-aftermath) |
+| **Read the object** | **MIRL 3D Analyzer** | A workbench for reading 3D scans of objects: measure, relight, slice, and map surface curvature. | [Open](https://mirl-ucsb.github.io/mirl-3d-analyzer/) · [Repo](https://github.com/mirl-ucsb/mirl-3d-analyzer) |
 
-### [mirl-3d-analyzer](https://github.com/mirl-ucsb/mirl-3d-analyzer)
-Tools for new three-dimensional ways of seeing objects. Part of our **Ways of
-Seeing** work, where computational imaging turns 3D models into analytical
-instruments for studying an object's form, surface, and structure.
+Further tools are in development, and will be added here as they are ready. More on the
+[MIRL Tools page](https://mirl.arthistory.ucsb.edu/mirl-tools/).
 
-### [rescue-archiving](https://github.com/mirl-ucsb/rescue-archiving)
-A local-first, human-in-the-loop pipeline for preserving at-risk media with
-verifiable provenance. A response to media disappearing from conflict zones: it
-makes tamper-evident copies, secures independent dated backups, records a full
-chain of custody, and is built to protect the people who provide material.
+## Research projects
 
-### [mirl-map](https://github.com/mirl-ucsb/mirl-map)
-A no-build documentary photo-map pairing geolocated photographs with per-photo narratives, shown as an interactive Leaflet map and a sequential photo essay. Generalised from MIRL's Lifta project; fork it per project. Plain HTML, CSS, and vanilla JS, deploys free on GitHub Pages. In development.
+**[California Native American Modern Art Archive](https://mirl.arthistory.ucsb.edu/cnamaa/)** (since 2023).
+A post-custodial digital repository of modern and contemporary California Native art,
+built with the artists, who keep control over how their work is represented, described,
+and shared, under Indigenous data sovereignty principles.
 
-### [Haptic Khipu](https://khipu.mirl.arthistory.ucsb.edu)
-A digital exploration of Andean recordkeeping systems. We investigate a
-16th-century khipu — a knotted-cord recording device — held at UCSB's Art,
-Design & Architecture Museum through material, haptic, and digital imaging
-methods, exploring how knowledge is encoded in fiber and form. The site offers
-interactive stories, a collection of featured cords, and a glossary.
-[khipu.mirl.arthistory.ucsb.edu](https://khipu.mirl.arthistory.ucsb.edu)
+**Eleven Days: A Counter-Archive of Mediterranean Santa Barbara** (since 2026, in development).
+Eleven days after the 1925 earthquake, Santa Barbara's leadership resolved to rebuild the
+city in a uniform Spanish style. The project reads that rebuilding as a forensic event,
+building a counter-archive of what was made and what was suppressed, toward a public
+exhibition. With María Lumbreras, María Minuesa Sicilia, and Alicia Boswell.
 
-## Get involved
+**Carol J. Mackey Archive** (2023; since 2026).
+The working archive of archaeologist Carol J. Mackey, from her excavations at Farfán,
+San José de Moro, and other Andean sites, brought into digital form by student
+researchers. More than 2,100 items are published on JSTOR. Directed by Alicia Boswell.
 
-We're a collaborative space for UCSB faculty, researchers, and students, offering imaging and
-digitization support for both 2D and 3D objects.
+**Ways of Seeing** (since 2026).
+New three-dimensional ways of seeing objects, adapting techniques from scientific and
+medical imaging so that 3D models become analytical instruments rather than
+representations. Built on the [MIRL 3D Analyzer](https://github.com/mirl-ucsb/mirl-3d-analyzer).
 
-- Arts Building, Room 1245 · Mon–Thu, 8am–4pm
-- Internships: Dr Jeff O'Brien ([jeffobrien@ucsb.edu](mailto:jeffobrien@ucsb.edu))
-- Room & equipment booking: Christine Fritsch ([cfritsch@ucsb.edu](mailto:cfritsch@ucsb.edu))
-- General: [mirl@arthistory.ucsb.edu](mailto:mirl@arthistory.ucsb.edu)
+**Color Film Emergency Project** (since 2025).
+Preserving at-risk 35mm slide collections of architecture and cultural heritage with the
+Society of Architectural Historians, funded by the National Endowment for the Humanities,
+and publishing them through SAHARA on JSTOR.
+
+**Documenting Ancient Americas Objects and Artworks** (since 2025).
+Photography, cataloging, and provenance research for Ancient Americas works newly acquired
+by UCSB's Art, Design & Architecture Museum.
+
+**[Haptic Khipu](https://khipu.mirl.arthistory.ucsb.edu)** (2025 to 2026).
+An interactive study of a 16th-century Andean khipu at the AD&A Museum, read cord by cord
+through material analysis, tactile examination, and high-resolution imaging. Built with
+Telar, the IIIF storytelling framework from UCSB's Archives, Memory, and Preservation Lab.
+[Repo](https://github.com/mirl-ucsb/story)
+
+**McConnel Fabulations** (2024).
+Digitization of vernacular photographs and postcards from North Africa and Europe, 1920s
+and 1930s.
+
+## Work with us
+
+- **Teaching with objects:** faculty can bring classes to MIRL and borrow from the AD&A
+  Museum's collections. Email [mirl@arthistory.ucsb.edu](mailto:mirl@arthistory.ucsb.edu)
+  at least four weeks before the quarter.
+- **Internships:** undergraduates join our projects through ARTHI 192C. Contact Jeff
+  O'Brien, Curator, at [jeffobrien@ucsb.edu](mailto:jeffobrien@ucsb.edu).
+- **Room and equipment:** Christine Fritsch, Assistant Curator,
+  [cfritsch@ucsb.edu](mailto:cfritsch@ucsb.edu).
+- **Contributing to the tools:** see [CONTRIBUTING](https://github.com/mirl-ucsb/.github/blob/main/CONTRIBUTING.md)
+  and our [Code of Conduct](https://github.com/mirl-ucsb/.github/blob/main/CODE_OF_CONDUCT.md).
+
+Arts Building, Room 1245, UC Santa Barbara. Open Monday to Thursday, 8 am to 4 pm.
+MIRL works on ancestral Chumash land.
